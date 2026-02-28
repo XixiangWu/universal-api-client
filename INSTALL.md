@@ -19,7 +19,7 @@ cd universal-api-client
 Open a new Claude Code session in the cloned directory and say:
 
 ```
-Fetch and follow instructions from docs/plans/implementation.md
+Fetch and follow instructions from https://raw.githubusercontent.com/XixiangWu/universal-api-client/main/INSTALL.md
 ```
 
 Or simply:
