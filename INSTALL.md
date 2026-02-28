@@ -10,7 +10,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/你的用户名/universal-api-client.git
+git clone https://github.com/XixiangWu/universal-api-client.git
 cd universal-api-client
 ```
 
